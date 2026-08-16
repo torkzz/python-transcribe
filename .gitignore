@@ -1,3 +1,5 @@
 meetings/
 whisper-env/
 :set number
+__pycache__/
+*.pyc

@@ -47,7 +47,11 @@ python auto_transcribe.py /path/to/meeting.wav
 
 Output saved to `/path/to/meeting.wav.txt`.
 
-## Model Configuration
+### Running Tests
+
+```bash
+python3 -m unittest discover
+```
 
 Default settings in `auto_transcribe.py`:
 
